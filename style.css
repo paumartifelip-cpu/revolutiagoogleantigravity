@@ -334,6 +334,52 @@ footer {
     color: var(--primary);
 }
 
+/* Pricing Section */
+.pricing-card {
+    margin-top: 6rem;
+    text-align: center;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pricing-header h3 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.pricing-header p {
+    color: var(--text-muted);
+    margin-bottom: 2rem;
+}
+
+.price {
+    font-size: 4rem;
+    font-weight: 800;
+    color: var(--secondary);
+    margin-bottom: 2rem;
+}
+
+.pricing-details {
+    list-style: none;
+    text-align: left;
+    max-width: 300px;
+    margin: 0 auto 3rem;
+}
+
+.pricing-details li {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    color: var(--text-muted);
+}
+
+.pricing-details i {
+    color: var(--primary);
+    width: 20px;
+}
+
 /* Responsive */
 @media (max-width: 1024px) {
     .mentor-content {
