@@ -374,6 +374,15 @@ footer {
     width: 20px;
 }
 
+.pricing-note {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-top: -1rem;
+    margin-bottom: 2rem;
+    font-style: italic;
+    text-align: center;
+}
+
 /* Responsive */
 @media (max-width: 1024px) {
     .mentor-content {
