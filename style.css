@@ -407,6 +407,20 @@ footer {
         padding: 4rem 0;
     }
 
+    nav {
+        padding: 1rem 0;
+    }
+
+    .logo {
+        font-size: 1.2rem;
+    }
+
+    nav .btn {
+        padding: 0.6rem 1rem;
+        font-size: 0.8rem;
+    }
+
+
     #programa, #mentor {
         padding: 4rem 0;
     }
