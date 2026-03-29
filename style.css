@@ -410,4 +410,16 @@ footer {
     #programa, #mentor {
         padding: 4rem 0;
     }
+
+    .mentor-detail {
+        text-align: center;
+        border-left: none;
+        border-top: 4px solid var(--primary);
+        padding: 1.5rem 1rem;
+    }
+
+    .pricing-details {
+        max-width: 100%;
+        padding: 0 1rem;
+    }
 }
